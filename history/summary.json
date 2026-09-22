@@ -58,19 +58,19 @@
     "url": "https://status.alfarisiazmir.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/status.alfarisiazmir.my.id.ico",
     "slug": "status-page",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "61.71%",
+    "uptimeDay": "61.71%",
+    "uptimeWeek": "61.71%",
+    "uptimeMonth": "61.71%",
+    "uptimeYear": "61.71%",
+    "time": 433,
+    "timeDay": 433,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2026-09-22": 0
+      "2026-09-22": 37
     }
   }
 ]
