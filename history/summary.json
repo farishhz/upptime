@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 1904,
+    "timeDay": 1904,
+    "timeWeek": 1904,
+    "timeMonth": 1904,
+    "timeYear": 1904,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 515,
+    "timeDay": 515,
+    "timeWeek": 515,
+    "timeMonth": 515,
+    "timeYear": 515,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 419,
+    "timeDay": 419,
+    "timeWeek": 419,
+    "timeMonth": 419,
+    "timeYear": 419,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,19 @@
     "url": "https://status.alfarisiazmir.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/status.alfarisiazmir.my.id.ico",
     "slug": "status-page",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-22": 0
+    }
   }
 ]
