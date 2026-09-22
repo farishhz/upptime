@@ -1,0 +1,26 @@
+owner: farishhz
+repo: upptime
+
+sites:
+  - name: Homepage
+    url: https://alfarisiazmir.my.id
+  - name: Excalidraw
+    url: https://excalidraw.alfarisiazmir.my.id
+  - name: Dev Utils
+    url: https://devutils.alfarisiazmir.my.id
+  - name: Status Page
+    url: https://status.alfarisiazmir.my.id
+
+assignees:
+  - farishhz
+
+status-website:
+  cname: status.alfarisiazmir.my.id
+  name: Status Page - alfarisiazmir.my.id
+  theme: dark
+  introMessage: "Realtime status dan uptime monitoring untuk semua layanan **alfarisiazmir.my.id**."
+  navbar:
+    - title: Homepage
+      href: https://alfarisiazmir.my.id
+
+##update
